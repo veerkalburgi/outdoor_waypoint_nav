@@ -1,5 +1,5 @@
 # outdoor_waypoint_nav
-Navigation of Husky robot using GPS IMU and Laser sensor
+Navigation of Husky robot using GPS IMU and Sick lms111 lidar sensor
 
 Prerequired packages:
 
